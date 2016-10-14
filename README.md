@@ -19,7 +19,6 @@ Desgard Flying
 <br />
 <img src="http://cerkh.img47.wal8.com/img47/539039_20160308170255/145948236901.png" alt="C9D7526F-5C2E-49D6-A144-06158F5054BE" border="0" />
 <br />
-<img src="http://cerkh.img47.wal8.com/img47/539039_20160308170255/145948236729.png" alt="59356593-8F61-4914-935F-65A741B35F9A" border="0" />
 
 <hr />
 ##更新日志
